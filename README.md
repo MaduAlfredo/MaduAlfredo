@@ -1,16 +1,46 @@
-## Hi there 👋
+Olá! Eu sou a Duda 👋
 
-<!--
-**MaduAlfredo/MaduAlfredo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudante de Desenvolvimento de Software
+☕ Foco atual: Java e Backend
+🚀 Objetivo: Full Stack Developer
 
-Here are some ideas to get you started:
+### Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estou construindo minha carreira em desenvolvimento de software,
+com foco inicialmente em Java e desenvolvimento backend.
+
+Atualmente estudo:
+- Java
+- Programação Orientada a Objetos
+- Banco de Dados
+- APIs REST
+- Git e GitHub
+- Desenvolvimento Web
+
+### Tecnologias
+
+Java | SQL | Git | GitHub | HTML | CSS | JavaScript
+
+### Projetos
+
+🔧 Sistema de Ordem de Serviço
+Sistema para gerenciamento de manutenção de máquinas.
+
+📚 Sistema de Biblioteca
+Projeto desenvolvido para praticar POO, composição e coleções em Java.
+
+✈️ Sistema de Gerenciamento de Voos
+Projeto desenvolvido para praticar herança, polimorfismo e abstração.
+
+### Atualmente estudando
+
+☕ Java
+🗄️ Banco de Dados
+🌐 APIs REST
+⚛️ Desenvolvimento Full Stack
+
+### Contato
+
+LinkedIn
+GitHub
+Dev.to
